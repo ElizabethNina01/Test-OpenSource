@@ -1,7 +1,7 @@
 
 Feature: Como visitante quiero informarme sobre los beneficios de la app para decidir si usarla
 
-Scenario El visitante recorre la sección de beneficios
+Scenario: El visitante recorre la sección de beneficios
 
 Given el visitante quiere conocer de la app
 When desliza la pantalla y llega a la sección de beneficios 
